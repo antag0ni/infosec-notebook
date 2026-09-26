@@ -1,4 +1,6 @@
 {
-  "newFileLocation": "current",
-  "attachmentFolderPath": "Resources/Images"
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "Resources/Images",
+  "alwaysUpdateLinks": true,
+  "newFileFolderPath": "01 - Notes"
 }

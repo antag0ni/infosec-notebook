@@ -1,0 +1,2 @@
+- [[CPTS - Certified Penetration Testing Specialist]]
+- [[CWES - Certified Web Exploitation Specialist]]

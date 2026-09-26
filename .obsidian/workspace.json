@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7cbaa90db0208e58",
+        "id": "5d2c63231d263bca",
         "type": "tabs",
         "children": [
           {
-            "id": "55d0e5703e7d4609",
+            "id": "5901d4fa379d3883",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Malware Development/Maldev Techniques vs. Products.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Maldev Techniques vs. Products"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -41,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -92,7 +88,7 @@
       {
         "id": "8cd6b62595bb2803",
         "type": "tabs",
-        "dimension": 31.88118811881188,
+        "dimension": 31.881188118811885,
         "children": [
           {
             "id": "55e2566293ef6a74",
@@ -179,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Malware Development/Maldev Techniques vs. Products.md",
+                "file": "01 - Notes/Senza nome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -226,49 +222,51 @@
   },
   "active": "9a8363e9c8d8230f",
   "lastOpenFiles": [
+    "01 - Notes/Senza nome.md",
+    "01 - Notes/Simple loader.md",
+    "01 - Notes/Malware Analysis & Reverse Engineering.md",
+    "00 - Index/Vulnerabilities.md",
+    "00 - Index/Tools.md",
+    "00 - Index/Reverse Engineering.md",
+    "00 - Index/Malware Development.md",
+    "00 - Index/Labs.md",
+    "00 - Index/Certifications.md",
+    "01 - Notes/CPTS - Certified Penetration Testing Specialist.md",
+    "00 - Index.md",
+    "00 - Index",
+    "01 - Notes/Maldev Techniques vs. Products.md",
+    "01 - Notes/CWES - Certified Web Exploitation Specialist.md",
+    "01 - Notes/Back End Components.md",
+    "01 - Notes/GET.md",
+    "01 - Notes/POST.md",
+    "01 - Notes/CRUD API.md",
+    "01 - Notes/HTTP Methods and Codes.md",
+    "01 - Notes/HTTP Headers.md",
+    "01 - Notes/HTTP Requests and Responses.md",
+    "01 - Notes/Hypertext Transfer Protocol Secure (HTTPS).md",
+    "01 - Notes/HyperText Transfer Protocol (HTTP).md",
+    "01 - Notes/Penetration Testing Process.md",
+    "01 - Notes",
     "Vulnerabilities",
-    "Malware Development/Malware Analysis & Reverse Engineering.md",
-    "Malware Development/Simple loader.md",
-    "Malware Development/Maldev Techniques vs. Products.md",
-    "Certifications/CWES - Certified Web Exploitation Specialist/Top 20 most common mistakes web developers make that are essential for us as penetration testers.md",
+    "01 - Notes/Top 20 most common mistakes web developers make that are essential for us as penetration testers.md",
     "Pasted image 20250805224855.png.md",
-    "Certifications/CWES - Certified Web Exploitation Specialist/Back End Components.md",
-    "Certifications/CWES - Certified Web Exploitation Specialist/Front End Vulnerabilities.md",
-    "Certifications/CWES - Certified Web Exploitation Specialist/01 - HyperText Transfer Protocol (HTTP).md",
-    "Certifications/CWES - Certified Web Exploitation Specialist/02 - Hypertext Transfer Protocol Secure (HTTPS).md",
-    "Resources/Images/Pasted image 20250727201527.png",
-    "Resources/Images/Pasted image 20250727202104.png",
-    "Certifications/CWES - Certified Web Exploitation Specialist/06 - GET.md",
-    "Resources/Images/Pasted image 20250805224855.png",
-    "Resources/Images/Pasted image 20250805230219.png",
-    "Resources/Images/Pasted image 20250805225700.png",
-    "Resources/Images/Pasted image 20250805225315.png",
-    "Resources/Images/Pasted image 20250805224839.png",
-    "Resources/Images/Pasted image 20250804192711.png",
-    "Resources/Images/Pasted image 20250804192612.png",
-    "Resources/Images/Pasted image 20250804192439.png",
-    "Certifications/CWES - Certified Web Exploitation Specialist/04 - HTTP Headers.md",
-    "Certifications/CWES - Certified Web Exploitation Specialist/03 - HTTP Requests and Responses.md",
-    "Certifications/CWES - Certified Web Exploitation Specialist/08 - CRUD API.md",
-    "Certifications/CWES - Certified Web Exploitation Specialist/07 - POST.md",
-    "Certifications/CWES - Certified Web Exploitation Specialist/05 - HTTP Methods and Codes.md",
-    "Resources",
-    "Resources/Images",
-    "Certifications/CPTS - Certified Penetration Testing Specialist/Penetration Testing Process.md",
-    "Certifications/CWES - Certified Web Exploitation Specialist/URL Encoding.md",
+    "01 - Notes/Front End Vulnerabilities.md",
+    "03 - Resources/Images/Pasted image 20250727201527.png",
+    "03 - Resources/Images/Pasted image 20250727202104.png",
+    "03 - Resources/Images/Pasted image 20250805224855.png",
+    "03 - Resources/Images/Pasted image 20250805230219.png",
+    "03 - Resources/Images/Pasted image 20250805225700.png",
+    "03 - Resources/Images/Pasted image 20250805225315.png",
+    "03 - Resources/Images/Pasted image 20250805224839.png",
+    "03 - Resources/Images/Pasted image 20250804192711.png",
+    "03 - Resources/Images/Pasted image 20250804192612.png",
+    "03 - Resources/Images/Pasted image 20250804192439.png",
+    "03 - Resources",
+    "03 - Resources/Images",
     "Labs",
     "Tools",
     "Reverse Engineering",
     "Malware Development",
-    "Certifications/CWES - Certified Web Exploitation Specialist",
-    "Certifications/CPTS - Certified Penetration Testing Specialist",
-    "Senza nome.md",
-    "Certifications",
-    "Laws and Regulations.md",
-    "Penetration Testing Overview.md",
-    "Pentetration Testing Process.md",
-    "Senza nome 1.md",
-    "crea un collegamento.md",
-    "Benvenuto.md"
+    "Certifications/CWES - Certified Web Exploitation Specialist"
   ]
 }
