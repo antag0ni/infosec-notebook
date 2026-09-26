@@ -1,0 +1,57 @@
+# ==========================================
+# Obsidian Device-Specific / Workspace Files
+# ==========================================
+# Tracks open tabs, active pane layouts, and window states per device
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian built-in cache
+.obsidian/cache/
+
+# ==========================================
+# Community Plugin Data & Secrets
+# ==========================================
+# Plugins that sync or write device-specific caches/indexes
+.obsidian/plugins/**/data.json
+.obsidian/plugins/**/cache/
+
+# Uncomment below if you store secrets, tokens, or sync credentials inside plugin directories:
+# .obsidian/plugins/**/secrets.json
+# .obsidian/plugins/**/env.json
+
+# ==========================================
+# Operating System Junk
+# ==========================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.directory
+*~
+
+# ==========================================
+# Obsidian Sync / Backup Artifacts
+# ==========================================
+.trash/
+.sync/
+
+# ==========================================
+# Editor Caches
+# ==========================================
+.idea/
+.vscode/
+*.swp
+*.swo

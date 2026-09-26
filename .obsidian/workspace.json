@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentetration Testing Process.md",
+                "file": "CPTS - Penetration Testing Process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pentetration Testing Process"
+              "title": "CPTS - Penetration Testing Process"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 299.34765625
   },
   "right": {
     "id": "313ff690ad84b5dd",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentetration Testing Process.md",
+                "file": "CPTS - Penetration Testing Process.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -226,9 +226,9 @@
   },
   "active": "d9a1652dfa99c301",
   "lastOpenFiles": [
-    "Penetration Testing Overview.md",
+    "CPTS - Penetration Testing Process.md",
     "Laws and Regulations.md",
-    "Introduction to the Penetration Tester Path.md",
+    "Penetration Testing Overview.md",
     "Pentetration Testing Process.md",
     "Senza nome.md",
     "Senza nome 1.md",
