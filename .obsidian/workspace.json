@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Penetration Testing Overview.md",
+                "file": "Pentetration Testing Process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Penetration Testing Overview"
+              "title": "Pentetration Testing Process"
             }
           }
         ]
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Penetration Testing Overview.md",
+                "file": "Pentetration Testing Process.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -194,7 +194,7 @@
       {
         "id": "96147d6718c56a41",
         "type": "tabs",
-        "dimension": 27.623762376237625,
+        "dimension": 27.62376237623762,
         "children": [
           {
             "id": "c5a86675d62d91bc",
@@ -226,12 +226,12 @@
   },
   "active": "d9a1652dfa99c301",
   "lastOpenFiles": [
-    "Laws and Regulations.md",
     "Penetration Testing Overview.md",
-    "Pentetration Testing Process.md",
+    "Laws and Regulations.md",
     "Introduction to the Penetration Tester Path.md",
-    "Senza nome 1.md",
+    "Pentetration Testing Process.md",
     "Senza nome.md",
+    "Senza nome 1.md",
     "Penetration Testing Process.md",
     "crea un collegamento.md",
     "Benvenuto.md"

@@ -1,6 +1,3 @@
-
-
-![Penetration testing process diagram: Pre-Engagement, Information Gathering, Vulnerability Assessment, Exploitation, Post-Exploitation, Lateral Movement, Proof-of-Concept, Post-Engagement.](https://academy.hackthebox.com/storage/modules/90/0-PT-Process.png)
 # Pre-Engagement
 
 The pre-engagement stage is where the main commitments, tasks, scope, limitations, and related agreements are documented in writing. During this stage, contractual documents are drawn up, and essential information is exchanged that is relevant for penetration testers and the client, depending on the type of assessment.
