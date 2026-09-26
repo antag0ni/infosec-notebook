@@ -4,7 +4,7 @@
 
 - **Path Structure and Scenario:** The coursework simulates a realistic penetration test against a company named Inlanefreight. Students should complete the modules in the exact order provided, as the concepts progressively build upon one another. This sequence is highly recommended for both beginners and advanced users who find themselves stuck.
 
-- **Prerequisites and Future Development:** Students who lack confidence for this path should first complete the `Information Security Foundations` Skill Path to build prerequisite knowledge. After finishing the penetration tester path, students are encouraged to specialize in areas like Active Directory, Web, or Reverse Engineering while maintaining a well-rounded skill set.
+- **Prerequisites and Future Development:** Students who lack confidence for this path should first complete the Information Security Foundations Skill Path to build prerequisite knowledge. After finishing the penetration tester path, students are encouraged to specialize in areas like Active Directory, Web, or Reverse Engineering while maintaining a well-rounded skill set.
 
 - **Required Mindset and Practice:** Cybersecurity requires a deep understanding of standard IT disciplines, such as networking, databases, scripting, and system administration. Students are encouraged to develop their own thorough and repeatable methodology. The text notes that analytical skills cannot simply be taught in a module; much like learning to play the guitar, mastering penetration testing requires considerable hands-on practice.
 
