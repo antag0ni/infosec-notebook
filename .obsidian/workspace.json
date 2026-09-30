@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Notes/MalDev Academy.md",
+                "file": "01 - Notes/MalDev Academy Modules List.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MalDev Academy"
+              "title": "MalDev Academy Modules List"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Module 2 - Introduction To Malware Development"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.34765625,
-    "collapsed": true
+    "width": 299.34765625
   },
   "right": {
     "id": "313ff690ad84b5dd",
@@ -195,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Notes/Module 2 - Introduction To Malware Development.md",
+                "file": "01 - Notes/MalDev Academy Modules List.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -240,11 +238,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16aefb3c15973164",
+  "active": "a70c28d2ba7ee910",
   "lastOpenFiles": [
     "01 - Notes/MalDev Academy.md",
-    "00 - Index/Malware.md",
     "01 - Notes/Module 2 - Introduction To Malware Development.md",
+    "00 - Index/Malware.md",
     "01 - Notes/MalDev Academy Modules List.md",
     "01 - Notes/Malware development for ethical hackers.md",
     "01 - Notes/Simple loader.md",
