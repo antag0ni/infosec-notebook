@@ -1,0 +1,180 @@
+### Standard Modules
+
+- [x] **Module 1:** Welcome Module
+- [ ] **Module 2:** Introduction To Malware Development
+- [ ] **Module 3:** Required Tools
+- [ ] **Module 4:** Coding Basics
+- [ ] **Module 5:** Windows Architecture
+- [ ] **Module 6:** Windows Memory Management
+- [ ] **Module 7:** Introduction To The Windows API
+- [ ] **Module 8:** Portable Executable Format
+- [ ] **Module 9:** Dynamic-Link Library
+- [ ] **Module 10:** Detection Mechanisms
+- [ ] **Module 11:** Windows Processes
+- [ ] **Module 12:** Undocumented Structures
+- [ ] **Module 13:** Payload Placement - .data & .rdata Sections
+- [ ] **Module 14:** Payload Placement - .text Section
+- [ ] **Module 15:** Payload Placement - .rsrc Section
+- [ ] **Module 16:** Introduction To Payload Encryption
+- [ ] **Module 17:** Payload Encryption - XOR
+- [ ] **Module 18:** Payload Encryption - RC4
+- [ ] **Module 19:** Payload Encryption - AES Encryption
+- [ ] **Module 20:** Evading Microsoft Defender Static Analysis
+- [ ] **Module 21:** Payload Obfuscation - IPv4/IPv6Fuscation
+- [ ] **Module 22:** Payload Obfuscation - MACFuscation
+- [ ] **Module 23:** Payload Obfuscation - UUIDFuscation
+- [ ] **Module 24:** Maldev Academy Tool - HellShell
+- [ ] **Module 25:** Maldev Academy Tool - MiniShell
+- [ ] **Module 26:** Local Payload Execution - DLL
+- [ ] **Module 27:** Local Payload Execution - Shellcode
+- [ ] **Module 28:** Process Injection - DLL Injection
+- [ ] **Module 29:** Process Injection - Shellcode Injection
+- [ ] **Module 30:** Payload Staging - Web Server
+- [ ] **Module 31:** Payload Staging - Windows Registry
+- [ ] **Module 32:** Malware Binary Signing
+- [ ] **Module 33:** Process Enumeration - EnumProcesses
+- [ ] **Module 34:** Process Enumeration - NtQuerySystemInformation
+- [ ] **Module 35:** Thread Hijacking - Local Thread Creation
+- [ ] **Module 36:** Thread Hijacking - Remote Thread Creation
+- [ ] **Module 37:** Thread Hijacking - Local Thread Enumeration
+- [ ] **Module 38:** Thread Hijacking - Remote Thread Enumeration
+- [ ] **Module 39:** APC Injection
+- [ ] **Module 40:** Early Bird APC Injection
+- [ ] **Module 41:** Callback Code Execution
+- [ ] **Module 42:** Local Mapping Injection
+- [ ] **Module 43:** Remote Mapping Injection
+- [ ] **Module 44:** Local Function Stomping Injection
+- [ ] **Module 45:** Remote Function Stomping Injection
+- [ ] **Module 46:** Payload Execution Control
+- [ ] **Module 47:** Spoofing PPID
+- [ ] **Module 48:** Process Argument Spoofing (1)
+- [ ] **Module 49:** Process Argument Spoofing (2)
+- [ ] **Module 50:** Parsing PE Headers
+- [ ] **Module 51:** String Hashing
+- [ ] **Module 52:** IAT Hiding & Obfuscation - Introduction
+- [ ] **Module 53:** IAT Hiding & Obfuscation - Custom GetProcAddress
+- [ ] **Module 54:** IAT Hiding & Obfuscation - Custom GetModuleHandle
+- [ ] **Module 55:** IAT Hiding & Obfuscation - API Hashing
+- [ ] **Module 56:** IAT Hiding & Obfuscation - Custom Pseudo Handles
+- [ ] **Module 57:** IAT Hiding & Obfuscation - Compile Time API Hashing
+- [ ] **Module 58:** API Hooking - Introduction
+- [ ] **Module 59:** API Hooking - Detours Library
+- [ ] **Module 60:** API Hooking - Minhook Library
+- [ ] **Module 61:** API Hooking - Custom Code
+- [ ] **Module 62:** API Hooking - Using Windows APIs
+- [ ] **Module 63:** Syscalls - Introduction
+- [ ] **Module 64:** Syscalls - Userland Hooking
+- [ ] **Module 65:** Syscalls - SysWhispers
+- [ ] **Module 66:** Syscalls - Hell's Gate
+- [ ] **Module 67:** Syscalls - Reimplementing Classic Injection
+- [ ] **Module 68:** Syscalls - Reimplementing Mapping Injection
+- [ ] **Module 69:** Syscalls - Reimplementing APC Injection
+- [ ] **Module 70:** Anti-Analysis - Introduction
+- [ ] **Module 71:** Anti-Debugging - Multiple Techniques
+- [ ] **Module 72:** Anti-Debugging - Self-Deletion
+- [ ] **Module 73:** Anti-Virtual Environments - Multiple Techniques
+- [ ] **Module 74:** Anti-Virtual Environments - Multiple Delay Execution Techniques
+- [ ] **Module 75:** Anti-Virtual Environments - API Hammering
+- [ ] **Module 76:** Binary Entropy Reduction
+- [ ] **Module 77:** Brute Force Decryption
+- [ ] **Module 78:** MalDev Academy Tool - KeyGuard
+- [ ] **Module 79:** CRT Library Removal & Malware Compiling
+- [ ] **Module 80:** IAT Camouflage
+- [ ] **Module 81:** Bypassing AVs
+- [ ] **Module 82:** Introduction To EDRs
+- [ ] **Module 83:** NTDLL Unhooking - Introduction
+- [ ] **Module 84:** NTDLL Unhooking - From Disk
+- [ ] **Module 85:** NTDLL Unhooking - From KnownDlls Directory
+- [ ] **Module 86:** NTDLL Unhooking - From a Suspended Process
+- [ ] **Module 87:** NTDLL Unhooking - From a Web Server
+- [ ] **Module 88:** Updating Hell's Gate
+- [ ] **Module 89:** Indirect Syscalls - HellsHall
+- [ ] **Module 90:** Block DLL Policy
+- [ ] **Module 91:** Diving Into NtCreateUserProcess
+
+---
+
+### New Modules
+
+- [ ] **New Module 1:** Binary Metadata Modification
+- [ ] **New Module 2:** Thread Enumeration - NtQuerySystemInformation
+- [ ] **New Module 3:** Custom WinAPI Functions
+- [ ] **New Module 4:** Exploiting EDRs For Evasion
+- [ ] **New Module 5:** Introduction To MASM Assembly
+- [ ] **New Module 6:** Evasion With File Bloating
+- [ ] **New Module 7:** Bring Your Own Protocol Handler
+- [ ] **New Module 8:** Bring Your Own File Extension
+- [ ] **New Module 9:** Utilizing Hardware Breakpoints For Hooking (1)
+- [ ] **New Module 10:** Utilizing Hardware Breakpoints For Hooking (2)
+- [ ] **New Module 11:** Utilizing Hardware Breakpoints For Credential Dumping
+- [ ] **New Module 12:** Event Tracing For Windows - Introduction
+- [ ] **New Module 13:** Event Tracing For Windows - ETW Tools
+- [ ] **New Module 14:** Event Tracing For Windows - ETW Bypass Via Byte Patching
+- [ ] **New Module 15:** Event Tracing for Windows - Improved Patching
+- [ ] **New Module 16:** Event Tracing for Windows - Patchless ETW Bypass Via HBPs
+- [ ] **New Module 17:** Event Tracing For Windows - ETW Provider Session Hijacking
+- [ ] **New Module 18:** Antimalware Scan Interface - Introduction
+- [ ] **New Module 19:** Antimalware Scan Interface - AMSI Bypass Via Byte Patching
+- [ ] **New Module 20:** Antimalware Scan Interface - AMSI Bypass Via HBPs
+- [ ] **New Module 21:** Building a DRM-equipped Malware
+- [ ] **New Module 22:** Introduction to Havoc C&C
+- [ ] **New Module 23:** Building An Evasive DLL Payload Loader
+- [ ] **New Module 24:** Introduction To DLL Sideloading
+- [ ] **New Module 25:** Practical DLL Sideloading Example
+- [ ] **New Module 26:** DLL Sideloading For EDR Evasion
+- [ ] **New Module 27:** Bring Your Own Vulnerable Driver
+- [ ] **New Module 28:** Local PE Injection
+- [ ] **New Module 29:** Reflective DLL Injection
+- [ ] **New Module 30:** PeFluctuation
+- [ ] **New Module 31:** Building a PE Packer
+- [ ] **New Module 32:** Malware Directory Placement
+- [ ] **New Module 33:** Utilizing Fibers For Payload Execution
+- [ ] **New Module 34:** TLS Callbacks For Anti-Debugging
+- [ ] **New Module 35:** Threadless Injection
+- [ ] **New Module 36:** Module Stomping
+- [ ] **New Module 37:** Module Overloading
+- [ ] **New Module 38:** Process Hollowing
+- [ ] **New Module 39:** Ghost Process Injection
+- [ ] **New Module 40:** Ghostly Hollowing
+- [ ] **New Module 41:** Herpaderping Process Injection
+- [ ] **New Module 42:** Herpaderply Hollowing
+- [ ] **New Module 43:** Shellcode Reflective DLL Injection (sRDI)
+- [ ] **New Module 44:** Patchless Threadless Injection Via Hardware BreakPoints
+- [ ] **New Module 45:** Tampered Syscalls Via Hardware BreakPoints
+- [ ] **New Module 46:** Exploiting EDRs For Evasion - Preventing EDR From Taking Action
+- [ ] **New Module 47:** Exploiting EDRs For Evasion - EDR LOLBINS
+- [ ] **New Module 48:** Process Hypnosis
+- [ ] **New Module 49:** Introduction To Object Files
+- [ ] **New Module 50:** Writing Beacon Object Files
+- [ ] **New Module 51:** Object File Loading
+- [ ] **New Module 52:** Exploiting EDRs For Evasion - Finding Internal Exclusion List
+- [ ] **New Module 53:** Introduction To Sleep Obfuscation
+- [ ] **New Module 54:** Introduction to Ekko and Zilean Sleep Obfuscation
+- [ ] **New Module 55:** Introduction to Foliage Sleep Obfuscation
+- [ ] **New Module 56:** Implementing Ekko With Stack Spoofing
+- [ ] **New Module 57:** Token Manipulation
+- [ ] **New Module 58:** Library Proxy Loading
+- [ ] **New Module 59:** Heap Encryption With Ekko Sleep Obfuscation
+- [ ] **New Module 60:** Introduction To Executing .NET Assemblies
+- [ ] **New Module 61:** Evading Microsoft Defender Via Patching
+- [ ] **New Module 62:** .NET Assemblies - Patching System.Environment.Exit
+- [ ] **New Module 63:** Capturing And Saving Screenshots Into Memory
+- [ ] **New Module 64:** Cross-Architecture Injection: x86 to x64 Injection
+- [ ] **New Module 65:** KnownDll Cache Poisoning Injection
+- [ ] **New Module 66:** Introduction to Keylogging
+- [ ] **New Module 67:** Developing a Keylogger
+- [ ] **New Module 68:** Sending Keystrokes To Remote Server
+- [ ] **New Module 69:** Manipulating VEH For Local Code Execution
+- [ ] **New Module 70:** Introduction To LSASS Dumping
+- [ ] **New Module 71:** Fetching LSASS Handle And Bypassing PPL
+- [ ] **New Module 72:** LSASS Dump Via Handle Duplication
+- [ ] **New Module 73:** LSASS Dump Via RtlReportSilentProcessExit
+- [ ] **New Module 74:** LSASS Dump Via Seclogon Race Condition
+- [ ] **New Module 75:** Dumping The SAM Database
+- [ ] **New Module 76:** Dumping The SAM Remotely
+- [ ] **New Module 77:** Dumping The SAM From Disk
+- [ ] **New Module 78:** Domain Enumeration Using MS-SAMR
+- [ ] **New Module 79:** Dumping Browser Cookies: Firefox
+- [ ] **New Module 80:** Dumping Saved Logins: Firefox
+- [ ] **New Module 81:** Dumping Browser Cookies: Chrome
+- [ ] **New Module 82:** Dumping Saved Logins: Chrome
