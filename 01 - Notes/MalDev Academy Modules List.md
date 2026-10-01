@@ -1,7 +1,7 @@
 ### Standard Modules
 
 - [x] **Module 1:** Welcome Module
-- [ ] **Module 2:** Introduction To Malware Development
+- [x] **Module 2:** Introduction To Malware Development
 - [ ] **Module 3:** Required Tools
 - [ ] **Module 4:** Coding Basics
 - [ ] **Module 5:** Windows Architecture
