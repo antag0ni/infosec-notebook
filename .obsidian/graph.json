@@ -11,7 +11,7 @@
       "query": "path:\"00 - Index\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 11020585
       }
     }
   ],
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.16347789723615383,
+  "scale": 0.16347789723615344,
   "close": true
 }

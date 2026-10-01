@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Notes/Module 2 - Introduction To Malware Development.md",
+                "file": "01 - Notes/MalDev Academy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module 2 - Introduction To Malware Development"
+              "title": "MalDev Academy"
             }
           },
           {
-            "id": "25c72cce07208e7b",
+            "id": "fabc6f30abb03ea2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Notes/Module 3 - Required Tools.md",
+                "file": "01 - Notes/Module 5 - Windows Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module 3 - Required Tools"
+              "title": "Module 5 - Windows Architecture"
             }
           }
         ],
@@ -48,7 +48,7 @@
       {
         "id": "89c379d3959bccd8",
         "type": "tabs",
-        "dimension": 71.28412537917089,
+        "dimension": 28.68686868686869,
         "children": [
           {
             "id": "9a8363e9c8d8230f",
@@ -98,16 +98,41 @@
         ]
       },
       {
+        "id": "ae97ae0d25fe7761",
+        "type": "tabs",
+        "dimension": 42.62626262626263,
+        "children": [
+          {
+            "id": "a70c28d2ba7ee910",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Notes/MalDev Academy Modules List.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "MalDev Academy Modules List"
+            }
+          }
+        ]
+      },
+      {
         "id": "4fd692037e6084b4",
         "type": "tabs",
-        "dimension": 28.71587462082912,
+        "dimension": 28.68686868686869,
         "children": [
           {
             "id": "c5a86675d62d91bc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "git-view",
               "state": {},
+              "pinned": true,
               "icon": "git-pull-request",
               "title": "Source Control"
             }
@@ -125,7 +150,7 @@
       {
         "id": "8cd6b62595bb2803",
         "type": "tabs",
-        "dimension": 29.67992240543162,
+        "dimension": 27.42248062015504,
         "children": [
           {
             "id": "55e2566293ef6a74",
@@ -142,32 +167,9 @@
         ]
       },
       {
-        "id": "1ed77aff49a06086",
-        "type": "tabs",
-        "dimension": 37.34238603297769,
-        "children": [
-          {
-            "id": "2584b8028d036476",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Index/Glossary.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Glossary"
-            }
-          }
-        ]
-      },
-      {
         "id": "e41d23d2e0566933",
         "type": "tabs",
-        "dimension": 32.97769156159069,
+        "dimension": 30.910852713178294,
         "children": [
           {
             "id": "f14d27bb378c952d",
@@ -175,6 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 - Notes/Module 5 - Windows Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,6 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01 - Notes/Module 5 - Windows Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -226,7 +230,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "Tutte le proprietà"
+              "title": "All properties"
             }
           },
           {
@@ -235,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Notes/Module 2 - Introduction To Malware Development.md",
+                "file": "01 - Notes/Module 5 - Windows Architecture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -243,27 +247,36 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "22d41ce2075812e5",
+        "type": "tabs",
+        "dimension": 41.66666666666667,
+        "children": [
           {
-            "id": "a70c28d2ba7ee910",
+            "id": "2584b8028d036476",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Notes/MalDev Academy Modules List.md",
-                "mode": "preview",
+                "file": "00 - Index/Glossary.md",
+                "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "MalDev Academy Modules List"
+              "title": "Glossary"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 285.3359375
+    "width": 282.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -277,21 +290,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55e2566293ef6a74",
+  "active": "fabc6f30abb03ea2",
   "lastOpenFiles": [
+    "01 - Notes/MalDev Academy Modules List.md",
+    "01 - Notes/Module 5 - Windows Architecture.md",
+    "01 - Notes/MalDev Academy.md",
+    "01 - Notes/Module 4 - Coding Basics.md",
+    "00 - Index/Malware Development & Analysis.md",
+    "00 - Index/Glossary.md",
+    "00 - Index/Certifications.md",
+    "01 - Notes/Antivirus (AV).md",
+    "01 - Notes/Module 2 - Introduction To Malware Development.md",
     "01 - Notes/Module 3 - Required Tools.md",
     "01 - Notes/Visual Studio.md",
     "01 - Notes/x64dbg.md",
-    "00 - Index/Glossary.md",
-    "01 - Notes/Module 2 - Introduction To Malware Development.md",
-    "01 - Notes/MalDev Academy.md",
-    "01 - Notes/MalDev Academy Modules List.md",
-    "00 - Index/Malware Development & Analysis.md",
     "01 - Notes/Penetration Testing Process.md",
     "01 - Notes/CPTS - Certified Penetration Testing Specialist.md",
-    "00 - Index/Certifications.md",
     "01 - Notes/Indicators of Compromise (IoC).md",
-    "01 - Notes/Antivirus (AV).md",
     "01 - Notes/Endpoint Detection and Response (EDR).md",
     "01 - Notes/Malware.md",
     "00 - Index/Labs.md",
@@ -304,8 +319,6 @@
     "01 - Notes/CWES - Certified Web Exploitation Specialist.md",
     "01 - Notes/HyperText Transfer Protocol (HTTP).md",
     "04 - Templates",
-    "01 - Notes/Senza nome.md",
-    "01 - Notes/Malware Analysis & Reverse Engineering.md",
     "00 - Index",
     "01 - Notes",
     "Vulnerabilities",
