@@ -16,3 +16,5 @@
 | [[Ntdll.dll]]                             |
 | [[kernell32.dll]]                         |
 | [[ntoskrnl.exe]]                          |
+| [[WinAPI]]                                |
+|                                           |

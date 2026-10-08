@@ -6,3 +6,6 @@ A processor inside a machine running the Windows operating system can operate un
 4. **Executive Kernel:** this is the Windows Kernel, it calls other drivers and modules available within kernel mode to complete tasks. It is partially stored in a file called [[ntoskrnl.exe]] under "C:\\Windows\\System32"
 
 #### Function Call Flow
+Flow of an application that creates a file:
+1. The user application calls the `CreateFile` WinAPI function which is available in the [[kernell32.dll]]. Kernel32.dll is a critical DLL that exposes applications to the [[WinAPI]] an can be loaded by most applications.
+2. `CreateFile` calls its equivalent NTAPI function
