@@ -150,7 +150,7 @@
       {
         "id": "8cd6b62595bb2803",
         "type": "tabs",
-        "dimension": 27.42248062015504,
+        "dimension": 30.263157894736842,
         "children": [
           {
             "id": "55e2566293ef6a74",
@@ -169,7 +169,7 @@
       {
         "id": "e41d23d2e0566933",
         "type": "tabs",
-        "dimension": 30.910852713178294,
+        "dimension": 21.929824561403507,
         "children": [
           {
             "id": "f14d27bb378c952d",
@@ -254,7 +254,7 @@
       {
         "id": "22d41ce2075812e5",
         "type": "tabs",
-        "dimension": 41.66666666666667,
+        "dimension": 47.80701754385965,
         "children": [
           {
             "id": "2584b8028d036476",
@@ -292,12 +292,13 @@
   },
   "active": "fabc6f30abb03ea2",
   "lastOpenFiles": [
-    "01 - Notes/MalDev Academy Modules List.md",
+    "00 - Index/Glossary.md",
     "01 - Notes/Module 5 - Windows Architecture.md",
+    "01 - Notes/Endpoint Detection and Response (EDR).md",
+    "01 - Notes/MalDev Academy Modules List.md",
     "01 - Notes/MalDev Academy.md",
     "01 - Notes/Module 4 - Coding Basics.md",
     "00 - Index/Malware Development & Analysis.md",
-    "00 - Index/Glossary.md",
     "00 - Index/Certifications.md",
     "01 - Notes/Antivirus (AV).md",
     "01 - Notes/Module 2 - Introduction To Malware Development.md",
@@ -307,7 +308,6 @@
     "01 - Notes/Penetration Testing Process.md",
     "01 - Notes/CPTS - Certified Penetration Testing Specialist.md",
     "01 - Notes/Indicators of Compromise (IoC).md",
-    "01 - Notes/Endpoint Detection and Response (EDR).md",
     "01 - Notes/Malware.md",
     "00 - Index/Labs.md",
     "00 - Index/Reverse Engineering.md",
