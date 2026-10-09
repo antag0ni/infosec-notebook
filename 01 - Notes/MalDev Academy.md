@@ -4,3 +4,4 @@
 - [[Module 3 - Required Tools]]
 - [[Module 4 - Coding Basics]]
 - [[Module 5 - Windows Architecture]]
+- [[Module 6 - Windows Memory Management]]

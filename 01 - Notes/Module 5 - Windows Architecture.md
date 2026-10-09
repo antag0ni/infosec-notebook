@@ -7,5 +7,10 @@ A processor inside a machine running the Windows operating system can operate un
 
 #### Function Call Flow
 Flow of an application that creates a file:
-1. The user application calls the `CreateFile` WinAPI function which is available in the [[kernell32.dll]]. Kernel32.dll is a critical DLL that exposes applications to the [[WinAPI]] an can be loaded by most applications.
-2. `CreateFile` calls its equivalent NTAPI function
+1. The user application calls the [[CreateFile]] WinAPI function which is available in the [[kernell32.dll]]. Kernel32.dll is a critical DLL that exposes applications to the [[WinAPI]] and can be loaded by most applications.
+2. [[CreateFile]] calls its equivalent NTAPI function [[NtCreateFile]] provided by [[Ntdll.dll]].
+3. [[Ntdll.dll]] then execute an assembly [[syscall]] (or sysenter (x86)) which transfer execution to kernel mode.
+4. The kernel [[NtCreateFile]] function calls kernel drivers and modules to perform the task.
+
+#### Directly Invoking The Native API (NTAPI)
+Application can invoke syscalls directly without going through the Windows API. The Windows API simply act as a wrapper for the Native API. The native API is more difficult to use because it's not officially documented and Microsoft advises against the use of the Native API

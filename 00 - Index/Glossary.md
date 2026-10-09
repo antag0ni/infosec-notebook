@@ -17,4 +17,4 @@
 | [[kernell32.dll]]                         |
 | [[ntoskrnl.exe]]                          |
 | [[WinAPI]]                                |
-|                                           |
+| [[syscall]]                               |

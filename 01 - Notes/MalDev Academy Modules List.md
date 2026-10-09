@@ -4,7 +4,7 @@
 - [x] **Module 2:** Introduction To Malware Development
 - [x] **Module 3:** Required Tools
 - [x] **Module 4:** Coding Basics
-- [ ] **Module 5:** Windows Architecture
+- [x] **Module 5:** Windows Architecture
 - [ ] **Module 6:** Windows Memory Management
 - [ ] **Module 7:** Introduction To The Windows API
 - [ ] **Module 8:** Portable Executable Format
