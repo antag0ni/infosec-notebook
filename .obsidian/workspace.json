@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "519e0037d6273d47",
+        "id": "0c0e2f327ab508e1",
         "type": "tabs",
         "children": [
           {
-            "id": "f543094d3c5332ba",
+            "id": "7cc28118ca2db610",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Notes/Module 6 - Windows Memory Management.md",
-                "mode": "source",
+                "file": "0x02 - Notes/MalDev Academy.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module 6 - Windows Memory Management"
+              "title": "MalDev Academy"
             }
           }
         ]
@@ -33,7 +33,7 @@
       {
         "id": "89c379d3959bccd8",
         "type": "tabs",
-        "dimension": 28.6536248561565,
+        "dimension": 29.292929292929294,
         "children": [
           {
             "id": "9a8363e9c8d8230f",
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Tools",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,41 +85,22 @@
       {
         "id": "ae97ae0d25fe7761",
         "type": "tabs",
-        "dimension": 42.5776754890679,
+        "dimension": 70.70707070707071,
         "children": [
           {
-            "id": "a70c28d2ba7ee910",
+            "id": "2584b8028d036476",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Notes/MalDev Academy Modules List.md",
-                "mode": "preview",
+                "file": "0x00 - Glossary/Glossary.md",
+                "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "MalDev Academy Modules List"
-            }
-          }
-        ]
-      },
-      {
-        "id": "4fd692037e6084b4",
-        "type": "tabs",
-        "dimension": 28.768699654775602,
-        "children": [
-          {
-            "id": "c5a86675d62d91bc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "pinned": true,
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Glossary"
             }
           }
         ]
@@ -135,7 +116,7 @@
       {
         "id": "8cd6b62595bb2803",
         "type": "tabs",
-        "dimension": 30.263157894736842,
+        "dimension": 28.99159663865546,
         "children": [
           {
             "id": "55e2566293ef6a74",
@@ -152,9 +133,32 @@
         ]
       },
       {
+        "id": "8f5df0fd812ca25e",
+        "type": "tabs",
+        "dimension": 28.99159663865546,
+        "children": [
+          {
+            "id": "a70c28d2ba7ee910",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0x02 - Notes/MalDev Academy Modules List.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "MalDev Academy Modules List"
+            }
+          }
+        ]
+      },
+      {
         "id": "e41d23d2e0566933",
         "type": "tabs",
-        "dimension": 21.929824561403507,
+        "dimension": 42.01680672268908,
         "children": [
           {
             "id": "f14d27bb378c952d",
@@ -162,7 +166,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Notes/Module 6 - Windows Memory Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +184,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Notes/Module 6 - Windows Memory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -224,7 +226,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Notes/Module 6 - Windows Memory Management.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -232,32 +233,21 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "22d41ce2075812e5",
-        "type": "tabs",
-        "dimension": 47.807017543859644,
-        "children": [
+          },
           {
-            "id": "2584b8028d036476",
+            "id": "c5a86675d62d91bc",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Index/Glossary.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "git-view",
+              "state": {},
               "pinned": true,
-              "icon": "lucide-file",
-              "title": "Glossary"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -275,53 +265,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f543094d3c5332ba",
+  "active": "55e2566293ef6a74",
   "lastOpenFiles": [
-    "01 - Notes/Module 6 - Windows Memory Management.md",
-    "01 - Notes/MalDev Academy.md",
-    "01 - Notes/Module 5 - Windows Architecture.md",
-    "01 - Notes/MalDev Academy Modules List.md",
-    "00 - Index/Malware Development & Analysis.md",
-    "01 - Notes/Msfvenom.md",
-    "01 - Notes/PE-Bear.md",
-    "01 - Notes/Process Hacker 2.md",
-    "01 - Notes/Visual Studio.md",
-    "01 - Notes/x64dbg.md",
-    "01 - Notes/WinAPI.md",
-    "01 - Notes/CreateFile.md",
-    "01 - Notes/NtCreateFile.md",
-    "01 - Notes/kernell32.dll.md",
-    "00 - Index/Glossary.md",
-    "01 - Notes/Simplest malware in C.md",
-    "01 - Notes/Malware development for ethical hackers.md",
-    "01 - Notes/Endpoint Detection and Response (EDR).md",
-    "01 - Notes/Module 4 - Coding Basics.md",
-    "00 - Index/Certifications.md",
-    "01 - Notes/Antivirus (AV).md",
-    "01 - Notes/Module 2 - Introduction To Malware Development.md",
-    "01 - Notes/Module 3 - Required Tools.md",
-    "01 - Notes/Penetration Testing Process.md",
-    "01 - Notes/CPTS - Certified Penetration Testing Specialist.md",
-    "01 - Notes/Indicators of Compromise (IoC).md",
+    "0x02 - Notes/MalDev Academy.md",
+    "0x02 - Notes/Module 6 - Windows Memory Management.md",
+    "0x02 - Notes/Module 5 - Windows Architecture.md",
+    "0x02 - Notes/Module 4 - Coding Basics.md",
+    "0x02 - Notes/Module 3 - Required Tools.md",
+    "0x02 - Notes/Module 2 - Introduction To Malware Development.md",
+    "0x02 - Notes/MalDev Academy Modules List.md",
+    "0x01 - Index/Malware Development & Analysis.md",
+    "0x01 - Index/Certifications.md",
+    "0x02 - Notes/CWES - Certified Web Exploitation Specialist.md",
+    "0x02 - Notes/HyperText Transfer Protocol (HTTP).md",
+    "0x02 - Notes/Hypertext Transfer Protocol Secure (HTTPS).md",
+    "0x02 - Notes/HTTP Requests and Responses.md",
+    "0x02 - Notes/HTTP Headers.md",
+    "0x02 - Notes/HTTP Methods and Codes.md",
+    "0x02 - Notes/GET.md",
+    "0x02 - Notes/POST.md",
+    "0x02 - Notes/CRUD API.md",
+    "0x02 - Notes/Back End Components.md",
+    "0x02 - Notes/Front End Vulnerabilities.md",
+    "0x02 - Notes/Top 20 most common mistakes web developers make that are essential for us as penetration testers.md",
+    "0x02 - Notes/URL Encoding.md",
+    "0x02 - Notes/Malware development for ethical hackers.md",
+    "0x02 - Notes/Simplest malware in C.md",
+    "0x00 - Glossary/Glossary.md",
+    "0x00 - Glossary",
+    "0x02 - Notes/CPTS - Certified Penetration Testing Specialist.md",
     "04 - Templates",
-    "00 - Index",
-    "01 - Notes",
+    "0x01 - Index",
+    "0x02 - Notes",
     "Vulnerabilities",
-    "03 - Resources/Images/Pasted image 20250727201527.png",
-    "03 - Resources/Images/Pasted image 20250727202104.png",
-    "03 - Resources/Images/Pasted image 20250805224855.png",
-    "03 - Resources/Images/Pasted image 20250805230219.png",
-    "03 - Resources/Images/Pasted image 20250805225700.png",
-    "03 - Resources/Images/Pasted image 20250805225315.png",
-    "03 - Resources/Images/Pasted image 20250805224839.png",
-    "03 - Resources/Images/Pasted image 20250804192711.png",
-    "03 - Resources/Images/Pasted image 20250804192612.png",
-    "03 - Resources/Images/Pasted image 20250804192439.png",
-    "03 - Resources",
-    "03 - Resources/Images",
+    "0x03 - Resources/Images/Pasted image 20250727201527.png",
+    "0x03 - Resources/Images/Pasted image 20250727202104.png",
+    "0x03 - Resources/Images/Pasted image 20250805224855.png",
+    "0x03 - Resources/Images/Pasted image 20250805230219.png",
+    "0x03 - Resources/Images/Pasted image 20250805225700.png",
+    "0x03 - Resources/Images/Pasted image 20250805225315.png",
+    "0x03 - Resources/Images/Pasted image 20250805224839.png",
+    "0x03 - Resources/Images/Pasted image 20250804192711.png",
+    "0x03 - Resources/Images/Pasted image 20250804192612.png",
+    "0x03 - Resources/Images/Pasted image 20250804192439.png",
+    "0x03 - Resources",
+    "0x03 - Resources/Images",
     "Labs",
     "Tools",
-    "Reverse Engineering",
-    "Malware Development"
+    "Reverse Engineering"
   ]
 }

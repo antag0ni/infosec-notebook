@@ -8,10 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"00 - Index\"  ",
+      "query": "path:\"0x01 - Index\"  ",
       "color": {
         "a": 1,
-        "rgb": 11020585
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"0x00 - Glossary\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6688527
+      }
+    },
+    {
+      "query": "tag:#Tools  ",
+      "color": {
+        "a": 1,
+        "rgb": 14940601
       }
     }
   ],
@@ -25,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1447543638749253,
+  "scale": 0.20294314253110388,
   "close": true
 }
