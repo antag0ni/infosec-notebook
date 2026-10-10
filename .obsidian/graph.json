@@ -25,11 +25,11 @@
       "query": "tag:#Tools  ",
       "color": {
         "a": 1,
-        "rgb": 10807786
+        "rgb": 13344077
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.20294314253110382,
+  "scale": 0.2845228150495447,
   "close": true
 }
