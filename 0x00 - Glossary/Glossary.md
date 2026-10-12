@@ -13,8 +13,10 @@
 | [[x64dbg]]                                |
 | [[User Mode]]                             |
 | [[Kernel Mode]]                           |
-| [[Native API (Ntdll.dll)]]                             |
+| [[Native API (Ntdll.dll)]]                |
 | [[kernell32.dll]]                         |
 | [[ntoskrnl.exe]]                          |
 | [[WinAPI]]                                |
 | [[syscall]]                               |
+| [[Virtual Memory]]                        |
+| [[Memory Paging]]                         |

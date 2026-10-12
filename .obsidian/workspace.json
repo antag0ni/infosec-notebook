@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0d90e23b1db148ff",
+        "id": "2c57f171b9deb0e4",
         "type": "tabs",
         "children": [
           {
-            "id": "93206f2ab0faf10f",
+            "id": "9d200691ea690821",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -158,7 +158,7 @@
       {
         "id": "e41d23d2e0566933",
         "type": "tabs",
-        "dimension": 29.844961240310074,
+        "dimension": 29.844961240310067,
         "children": [
           {
             "id": "c5a86675d62d91bc",
@@ -267,18 +267,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93206f2ab0faf10f",
+  "active": "9d200691ea690821",
   "lastOpenFiles": [
-    "0x02 - Notes/Module 5 - Windows Architecture.md",
-    "0x02 - Notes/MalDev Academy.md",
+    "0x00 - Glossary/Glossary.md",
     "0x02 - Notes/Module 6 - Windows Memory Management.md",
-    "0x02 - Notes/Visual Studio.md",
+    "0x02 - Notes/ntoskrnl.exe.md",
+    "0x02 - Notes/WinAPI.md",
+    "0x02 - Notes/MalDev Academy.md",
     "0x01 - Index/Malware Development & Analysis.md",
-    "0x02 - Notes/MalDev Academy Modules List.md",
+    "0x02 - Notes/Module 5 - Windows Architecture.md",
     "0x01 - Index/Certifications.md",
+    "0x02 - Notes/Visual Studio.md",
+    "0x02 - Notes/MalDev Academy Modules List.md",
     "0x02 - Notes/CPTS - Certified Penetration Testing Specialist.md",
     "0x02 - Notes/Untitled.base",
-    "0x00 - Glossary/Glossary.md",
     "0x02 - Notes/Module 4 - Coding Basics.md",
     "0x02 - Notes/Module 3 - Required Tools.md",
     "0x02 - Notes/Module 2 - Introduction To Malware Development.md",
@@ -294,8 +296,6 @@
     "0x02 - Notes/Back End Components.md",
     "0x02 - Notes/Front End Vulnerabilities.md",
     "0x02 - Notes/Top 20 most common mistakes web developers make that are essential for us as penetration testers.md",
-    "0x02 - Notes/URL Encoding.md",
-    "0x02 - Notes/Malware development for ethical hackers.md",
     "0x00 - Glossary",
     "04 - Templates",
     "0x01 - Index",
