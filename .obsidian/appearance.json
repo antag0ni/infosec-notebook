@@ -1,5 +1,6 @@
 {
   "theme": "obsidian",
   "accentColor": "#a92323",
-  "cssTheme": "Typomagical"
+  "cssTheme": "Typomagical",
+  "showRibbon": true
 }

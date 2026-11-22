@@ -22,3 +22,10 @@
 | [[Memory Paging]]                             |
 | [[Data Execution Prevention (DEP)]]           |
 | [[Address space layout randomization (ASLR)]] |
+| [[nmap]]                                      |
+| [[gobuster]]                                  |
+| [[hydra]]                                     |
+| [[reverse shell]]                             |
+| [[netcat]]                                    |
+| [[LinPEAS]]                                   |
+| [[SUID]]                                      |
